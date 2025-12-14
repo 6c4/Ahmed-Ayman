@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SaMod - منصة صمود",
+  "description": "منصة رقمية متكاملة لدعم الصمود في غزة، توفر الوصول للخدمات، سوق محلي، دعم نفس، ونظام استغاثة.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
